@@ -1,4 +1,4 @@
-package com.wujiang.mybais.pojo;
+package com.wujiang.mybatis.pojo;
 
 import java.util.ArrayList;
 import java.util.Date;

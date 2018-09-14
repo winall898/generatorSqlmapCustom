@@ -1,4 +1,4 @@
-package com.wujiang.mybais.pojo;
+package com.wujiang.mybatis.pojo;
 
 public class Orderdetail {
     private Integer id;

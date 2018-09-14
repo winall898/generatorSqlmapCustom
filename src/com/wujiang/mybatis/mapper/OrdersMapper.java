@@ -3,8 +3,8 @@ package com.wujiang.mybatis.mapper;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
-import com.wujiang.mybais.pojo.Orders;
-import com.wujiang.mybais.pojo.OrdersExample;
+import com.wujiang.mybatis.pojo.Orders;
+import com.wujiang.mybatis.pojo.OrdersExample;
 
 public interface OrdersMapper {
     int countByExample(OrdersExample example);
